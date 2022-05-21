@@ -3,6 +3,7 @@
         "title": "Ekonomie",
         "url": "/ekonomie",
         "icons": "ptak",
-        "ukazka": "= zabývá se společenskou realitou "
+        "ukazka": "= zabývá se společenskou realitou ",
+        "key_words": "ekonomika peníze výnosy zásoby"
     }
 }
