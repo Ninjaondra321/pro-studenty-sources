@@ -1,0 +1,18 @@
+{
+    "vyznamne_osobnosti": {
+        "title": "Vyznamné osobnosti",
+        "temata": [
+            "velka_fr_revuluce",
+            "napoleon_bonaparte",
+            "napoleon_bonaparte"
+        ]
+    },
+    "vyznamne_bitvy": {
+        "title": "Vyznamné bitvy",
+        "temata": [
+            "napoleon_bonaparte",
+            "velka_fr_revuluce",
+            "napoleon_bonaparte"
+        ]
+    }
+}
