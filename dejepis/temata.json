@@ -1,0 +1,14 @@
+{
+    "napoleon_bonaparte": {
+        "title": "Napoleon Bonaparte",
+        "url": "/napoleon.md",
+        "icon": "list",
+        "ukazka": "Narození 1769 - Korsika; Ve 24 letech povýšen na generála..."
+    },
+    "velka_fr_revoluce": {
+        "title": "Velká francouzská revoluce",
+        "url": "/velka-fr-revoluce.md",
+        "icon": "list",
+        "ukazka": "Absolutisticky vládl Ludvík 16. z rodu Burbonů, ..."
+    }
+}
