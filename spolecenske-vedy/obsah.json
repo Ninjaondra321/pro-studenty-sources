@@ -1,0 +1,24 @@
+{
+    "1": {
+        "title": "1. ročník",
+        "contents": [
+            {
+                "title": "Ekonomie",
+                "link": "/ekonomie"
+            }
+        ]
+    },
+    "2": {
+        "title": "2. ročník",
+        "contents": [
+            {
+                "title": "Ekonomie podruhé",
+                "link": "/ekonomie"
+            },
+            {
+                "title": "Ekonomie potřetí",
+                "link": "/ekonomie"
+            }
+        ]
+    }
+}

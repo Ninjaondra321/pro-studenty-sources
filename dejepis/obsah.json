@@ -1,0 +1,28 @@
+{
+    "1": {
+        "title": "1. ročník",
+        "contents": [
+            {
+                "title": "Velká francouzská revoluce",
+                "link": "/velka_fr_revoluce"
+            },
+            {
+                "title": "Velká Fr Duplikát",
+                "link": "/velka_fr_revoluce"
+            },
+            {
+                "title": "Velká Fr Duplikát",
+                "link": "/velka_fr_revoluce"
+            }
+        ]
+    },
+    "2": {
+        "title": "2. ročník",
+        "contents": [
+            {
+                "title": "Velká francouzská revoluce -2. rocnik",
+                "link": "/velka_fr_re"
+            }
+        ]
+    }
+}
