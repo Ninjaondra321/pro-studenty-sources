@@ -2,5 +2,13 @@
     "prazdny_vyber": {
         "title": "Prázdný výběr",
         "temata": []
+    },
+    "penize": {
+        "title": "Peníze a tak",
+        "temata": [
+            {"title":"Ekonomie", "path":"/ekonomie", "icon":"list"},
+            {"title":"Ekonomie", "path":"/ekonomie", "icon":"list"},
+            {"title":"Ekonomie", "path":"/ekonomie", "icon":"list"}
+        ]
     }
 }
