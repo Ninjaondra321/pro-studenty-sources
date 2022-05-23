@@ -2,14 +2,12 @@
     "napoleon_bonaparte": {
         "title": "Napoleon Bonaparte",
         "url": "/napoleon.md",
-        "icon": "list",
         "ukazka": "Narození 1769 - Korsika; Ve 24 letech povýšen na generála...",
         "key_words": "napoleon bonaparte korsika general bitva slavkova kutuzov"
     },
     "velka_fr_revoluce": {
         "title": "Velká francouzská revoluce",
         "url": "/velka_fr_revoluce.md",
-        "icon": "list",
         "ukazka": "Absolutisticky vládl Ludvík 16. z rodu Burbonů, ...",
         "key_words": "velka francouzska revoluce burboni  ludvik 16 šlechta "
     }
