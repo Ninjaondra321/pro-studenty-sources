@@ -5,5 +5,12 @@
         "icon": "list",
         "ukazka": "Charakteristika + stavba těla: Torpédovitý tvar těla ...",
         "key_words": "paryby žraloci rejnoci chiméry torpédovité "
+    },
+    "ryby": {
+        "title": "Ryby",
+        "url": "/ryby",
+        "icon": "bird",
+        "ukazka": "Charakteristika + stavba těla: Torpédovitý tvar těla ...",
+        "key_words": " ryby nozdratí lalokoploutví dvojdyšní paprskoploutví chrupavčití kostnatí"
     }
 }
