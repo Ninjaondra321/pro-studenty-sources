@@ -1,5 +1,9 @@
-<h1>1.třída: Paryby </h1>
+<!-- Output copied to clipboard! -->
 
+<!-- Yay, no errors, warnings, or alerts! -->
+
+
+# 1.třída: Paryby 
 
 Charakteristika + stavba těla:
 
@@ -26,8 +30,8 @@ Charakteristika + stavba těla:
 * Čich, proudový orgán, elektrické impulzy, slabý zrak
 * Vnitřní oplození
 
-<h2>1.řád: Žraloci</h2>
 
+## 1.řád: Žraloci
 
 Charakteristika:
 
@@ -36,8 +40,8 @@ Charakteristika:
 * Vertikální ploutev
 * Mají vyvinuté čelisti
 
-<h2>2.řád: Rejnoci</h2>
 
+## 2.řád: Rejnoci
 
 Charakteristika:
 
@@ -46,7 +50,7 @@ Charakteristika:
 * Placaté tělo
 * Po obvodu těla mají ploutevní lem
 
-<h2>3.řád: Chiméry</h2>
 
+## 3.řád: Chiméry
 
 Zástupec: Chiméra
