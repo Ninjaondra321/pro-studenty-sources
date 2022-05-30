@@ -1,26 +1,3 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.336 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Mon May 30 2022 07:35:14 GMT-0700 (PDT)
-* Source doc: Bio - Ryby, Paryby
-* This is a partial selection. Check to make sure intra-doc links work.
------>
-
-
 <h1>1.třída: Paryby </h1>
 
 
