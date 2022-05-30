@@ -1,0 +1,18 @@
+{
+    "vyznamne_osobnosti": {
+        "title": "Vyznamné osobnosti",
+        "temata": [
+            {"title":"Napoleon Bonaparte", "path":"/napoleon", "icon":"bird"},
+            {"title":"Napoleon Bonaparte", "path":"/napoleon", "icon":"bird"},
+            {"title":"Velká francouzdká revoluce", "path":"/velka_fr_revoluce", "icon":"list"}
+        ]
+    },
+    "vyznamne_bitvy": {
+        "title": "Vyznamné bitvy",
+        "temata": [
+            {"title":"Napoleon Bonaparte", "path":"/napoleon", "icon":"bird"},
+            {"title":"Velká francouzdká revoluce", "path":"/velka_fr_revoluce", "icon":"list"},
+            {"title":"Napoleon Bonaparte", "path":"/napoleon", "icon":"bird"}
+        ]
+    }
+}
