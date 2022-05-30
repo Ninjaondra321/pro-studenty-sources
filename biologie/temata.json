@@ -12,5 +12,19 @@
         "icon": "bird",
         "ukazka": "Charakteristika + stavba těla: Torpédovitý tvar těla ...",
         "key_words": " ryby nozdratí lalokoploutví dvojdyšní paprskoploutví chrupavčití kostnatí"
+    },
+    "clenovci": {
+        "title": "Členovci",
+        "url": "/clenovci",
+        "icon": "bird",
+        "ukazka": "Charakteristika: Vyvinuli se ve sladké vodě - až pak se přesunuli do moře ...",
+        "key_words": " členovci clenovci DOPSATT"
+    },
+    "hmyz": {
+        "title": "Hmyz",
+        "url": "/hmyz",
+        "icon": "bird",
+        "ukazka": "Charakteristika: Hlava - ústní ústrojí - je uzpůsobeno potravě - bodavě-sací - komár ...",
+        "key_words": " hmyz DOPSATT"
     }
 }

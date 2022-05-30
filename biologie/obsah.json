@@ -3,6 +3,10 @@
         "title": "2. ročník",
         "contents": [
             {
+                "title": "Členovci",
+                "link": "/clenovci"
+            },
+            {
                 "title": "Paryby",
                 "link": "/paryby"
             },
