@@ -10,5 +10,83 @@
         "url": "/velka_fr_revoluce",
         "ukazka": "Absolutisticky vládl Ludvík 16. z rodu Burbonů, ...",
         "key_words": "velka francouzska revoluce burboni  ludvik 16 šlechta "
+    },
+    "habsburkove_na_ceske_trune": {
+        "title": "Habsburkove na českém trůně",
+        "url": "/velka_fr_revoluce",
+        "ukazka": "1526 - na trůn nastupuje Ferdinand I. Habsburský ...",
+        "key_words": "habsburkove na ceske trune trun ceska 1526  DOPSATT"
+    },
+    "stavovsko_povstani": {
+        "title": "České stávovské povstání",
+        "url": "/stavovske_povstani",
+        "ukazka": "Matyáš opakovaně porušoval Rudolfův majestát, zavírá kostely, jeden dokonce nechá zbourat...",
+        "key_words": "ceske stavovske povstani DOPSAT"
+    },
+    "tricetileta_valka": {
+        "title": "Třicetiletá válka",
+        "url": "/tricetileta_valka",
+        "ukazka": "Příčina: Snaha habsburků o hegemonii v evropě ...",
+        "key_words": "tricetileta valka DOPSAT"
+    },
+    "nizozemska_rev": {
+        "title": "Nizozemská revoluce",
+        "url": "/nizozemska-revoluce",
+        "ukazka": "Protikatolické povstání - 1566 ...",
+        "key_words": "nizozemska revoluce DOPSAT"
+    },
+    "anglicka_rev": {
+        "title": "Anglická revoluce",
+        "url": "/anglicka-revoluce",
+        "ukazka": "ProtiNeshody mezi panovníkem a podnikateli - začalo to skřípat, ale revoluce ještě nevypukla ...",
+        "key_words": "anglicka revoluce DOPSAT"
+    },
+    "americka_rev": {
+        "title": "Americká revoluce",
+        "url": "/americka-revoluce",
+        "ukazka": "13 anglických osad - Severovýchod: Zakládali menší zemědělské farmy; rybolov, dřevo ...",
+        "key_words": "americka revoluce DOPSAT"
+    },
+    "osvicenstvi": {
+        "title": "Osvícenství, osvícenský absolutismus",
+        "url": "/osvicenstvi",
+        "ukazka": "= Intelektuální hnutí, myšlenkový proud a filosofický směr 18. století...",
+        "key_words": "osvicenstvi, osvícenský absolutismus DOPSAT"
+    },
+    "vidensky-kongres": {
+        "title": "Vídeňský kongres",
+        "url": "/vidensky-kongres",
+        "ukazka": "Kníže Metternich - kancléř rakouského císařství...",
+        "key_words": "vidensky kongres DOPSAT"
+    },
+    "prumyslova-revoluce": {
+        "title": "Průmyslová revoluce",
+        "url": "/prumyslova-revoluce",
+        "ukazka": "= Změny v průmyslu natolik převatné, že způsobily revoluci ...",
+        "key_words": "prumysolva revoluce DOPSAT"
+    },
+    "vek-revoluci": {
+        "title": "Evropa po Vídeňském kongresu",
+        "url": "/evropa-po-videnske-kongresu",
+        "ukazka": "Kontext: Kníže metternich - v čechách “Četník evropy”...",
+        "key_words": "evropa po videnskem kongresu vek revoluci DOPSAT"
+    },
+    "1848": {
+        "title": "Revoluce 1848/49",
+        "url": "/revoluce1848",
+        "ukazka": "Príčiny: Sociální a hospodářská krize ...",
+        "key_words": "revoluce 1848 1849 1848/49 DOPSAT"
+    },
+    "ceske-narodni-obrozeni": {
+        "title": "České národní obrození",
+        "url": "/ceske-narodni-obrozeni",
+        "ukazka": "= Proces vytváření novodobého českého národa (národní a politická emancipace českého národa)        ...",
+        "key_words": "české národní obrození DOPSAT"
+    },
+    "sjednoceni-it-a-nem": {
+        "title": "Sjednocení Itálie a Německa",
+        "url": "/sjednoceni-italie-a-nemecka",
+        "ukazka": "Revoluce shora = Vyšší vrstvy chtějí revoluci ...",
+        "key_words": "sjednocení itálie německa italie nemecka DOPSAT"
     }
 }

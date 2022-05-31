@@ -116,6 +116,4 @@
 * Zavedl zlatem kryté franky
 
 
-# 
-
 
