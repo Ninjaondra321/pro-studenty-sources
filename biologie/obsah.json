@@ -13,6 +13,22 @@
             {
                 "title": "Ryby",
                 "link": "/ryby"
+            },
+            {
+                "title": "Ostnokožci",
+                "link": "/ostnokozci"
+            },
+            {
+                "title": "Strunatci",
+                "link": "/strunatci"
+            },
+            {
+                "title": "Obojživelníci",
+                "link": "/obojzivelnici"
+            },
+            {
+                "title": "Plazi",
+                "link": "/plazi"
             }
         ]
     }

@@ -26,5 +26,33 @@
         "icon": "bird",
         "ukazka": "Charakteristika: Hlava - ústní ústrojí - je uzpůsobeno potravě - bodavě-sací - komár ...",
         "key_words": " hmyz DOPSATT"
+    },
+    "ostnokozci": {
+        "title": "Ostnokotci",
+        "url": "/ostnokozci",
+        "icon": "bird",
+        "ukazka": "Charakteristika: Starobylí živočichové - vyvynuli se v prvohorách ...",
+        "key_words": " ostnokozci DOPSATT"
+    },
+    "strunatci": {
+        "title": "Strunatci",
+        "url": "/strunatci",
+        "icon": "bird",
+        "ukazka": "Charakteristika: Dvoustranná souměrnost - Vnitřní kostra = endoskelet ...",
+        "key_words": " strunatci DOPSATT"
+    },
+    "obojzivelnici": {
+        "title": "Obojživelníci",
+        "url": "/obojzivelnici",
+        "icon": "bird",
+        "ukazka": "Charakteristika: První obratlovci, kteří se přesunuli na souš ...",
+        "key_words": " obojzivelnici DOPSATT"
+    },
+    "plazi": {
+        "title": "Plazi",
+        "url": "/plazi",
+        "icon": "bird",
+        "ukazka": "Charakteristika: První plazi, kteří se přesunuli na souš ...",
+        "key_words": " plazi DOPSATT"
     }
 }
