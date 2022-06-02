@@ -1,18 +1,52 @@
 {
     "vyznamne_osobnosti": {
-        "title": "Vyznamné osobnosti",
+        "title": "Revoluce",
         "temata": [
-            {"title":"Napoleon Bonaparte", "path":"/napoleon", "icon":"bird"},
-            {"title":"Napoleon Bonaparte", "path":"/napoleon", "icon":"bird"},
-            {"title":"Velká francouzdká revoluce", "path":"/velka_fr_revoluce", "icon":"list"}
+            {
+                "title": "Průmyslová revoluce",
+                "path": "/prumyslova-revoluce",
+                "icon": "bird"
+            },
+            {
+                "title": "Velká francouzská revoluce",
+                "path": "/velka_fr_revoluce",
+                "icon": "list"
+            },
+            {
+                "title": "Revoluce 1848",
+                "path": "/revoluce1848",
+                "icon": "bird"
+            },
+            {
+                "title": "Nizozemská revoluce",
+                "path": "/nizozemska-revoluce",
+                "icon": "bird"
+            },
+            {
+                "title": "Americká revoluce",
+                "path": "/americka-revoluce",
+                "icon": "list"
+            },
+            {
+                "title": "Anglická revoluce",
+                "path": "/anglicka-revoluce",
+                "icon": "list"
+            }
         ]
     },
     "vyznamne_bitvy": {
-        "title": "Vyznamné bitvy",
+        "title": "České země",
         "temata": [
-            {"title":"Napoleon Bonaparte", "path":"/napoleon", "icon":"bird"},
-            {"title":"Velká francouzdká revoluce", "path":"/velka_fr_revoluce", "icon":"list"},
-            {"title":"Napoleon Bonaparte", "path":"/napoleon", "icon":"bird"}
+            {
+                "title": "České stavovské povstání",
+                "path": "/stavovske-povstani",
+                "icon": "bird"
+            },
+            {
+                "title": "České národní obrození",
+                "path": "/ceske-narodni-obrozeni",
+                "icon": "list"
+            }
         ]
     }
 }
