@@ -1,6 +1,10 @@
 {
     "title": "Biologie",
     "color": "#ff0000",
+    "themeColors":[
+        "#225588",
+        "#335599"
+    ],
     "icons": [
         "list"
     ]
